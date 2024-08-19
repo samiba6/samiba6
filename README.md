@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hey there! I'm Samy, a passionate software engineer with a love for design, data science, and cybersecurity. 💻</h3>
+<h3 align="center">👋 Hey there! I'm Samy, a passionate cybersecurity engineer with a love for software engineering. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiba6&label=Profile%20views&color=0e75b6&style=flat" alt="samiba6" /> </p>
 🌐 My tech stack includes:
